@@ -1,0 +1,51 @@
+Just finished creating a dashboard on accident datasets by Maven Analytics. By visualizing the data, I gained new insights that can be used to improve safety measures and save lives.
+
+COLOR:
+
+1 #1DECF4
+2 #1370C6
+3 #459CED
+4 #A1CDF7	
+5 
+
+
+#071929 BG
+#1d2936 outline 
+
+
+#1DECF4	  high
+#1370C6 low
+
+text 	#459CED
+
+orignal line chart colors
+blue #12239E
+light blue #118DFF
+
+
+What days and times do we tend to be busiest? ok
+How many pizzas are we making during peak periods?
+What are our best and worst selling pizzas?
+What's our average order value? ok 
+How well are we utilizing our seating capacity? (we have 15 tables and 60 seats)
+what day most pizzas were sold?
+what month most pizzas were sold?
+which category of pizza is best seller?
+which cateogry is best seller?
+which price pizza is the best seller?
+which size pizza is the best seller?
+ingredients word cloud
+How many customers do we have each day? Are there any peak hours?
+How many pizzas are typically in an order? Do we have any bestsellers?
+How much money did we make this year? Can we indentify any seasonality in the sales?
+Are there any pizzas we should take of the menu, or any promotions we could leverage?
+
+Measures & Columns:
+Average Pizza Price (card)
+Revenue (card)
+Total orders (card) 
+Peak time (card)
+Peak day (card)
+Size , Category , Quantity Slicers
+
+
